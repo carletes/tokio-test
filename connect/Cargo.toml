@@ -1,0 +1,8 @@
+[package]
+name = "connect"
+version = "0.1.0"
+authors = ["Carlos Valiente <carlo@pepelabs.net>"]
+edition = "2018"
+
+[dependencies]
+tokio = { "version" = "0.2.11", features = ["macros", "rt-threaded", "tcp"] }

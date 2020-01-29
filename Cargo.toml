@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "connect",
+  "hello-world",
+  "no-op",
+  "write",
+]
