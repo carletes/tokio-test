@@ -1,7 +1,7 @@
 [workspace]
 members = [
-  "connect",
   "hello-world",
-  "no-op",
-  "write",
+  "hello-world-connect",
+  "hello-world-no-op",
+  "hello-world-write",
 ]
