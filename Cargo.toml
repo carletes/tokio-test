@@ -1,5 +1,6 @@
 [workspace]
 members = [
+  "echo-server",
   "hello-world",
   "hello-world-connect",
   "hello-world-no-op",
