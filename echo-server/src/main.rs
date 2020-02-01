@@ -1,6 +1,5 @@
 use futures::stream::StreamExt; // Why not `tokio::stream::StreamExt`?
 use tokio::net::TcpListener;
-// use tokio::prelude::*;
 
 #[tokio::main]
 async fn main() {
